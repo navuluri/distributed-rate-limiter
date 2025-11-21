@@ -1132,11 +1132,11 @@ SOFTWARE.
 
 ## Author
 
-**Your Name**
+**Bhaskara Navuluri**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- GitHub: [@navuluri](https://github.com/navuluri)
+- LinkedIn: [Bhaskara Navuluri](www.linkedin.com/in/bhaskara-navuluri-52a0151b2)
+- Stackoverflow: [Bhaskara Navuluri](https://stackoverflow.com/users/1781174/bhaskara)
 
 ---
 
@@ -1175,9 +1175,9 @@ SOFTWARE.
 If you encounter any issues or have questions:
 
 1. Check the [Troubleshooting](#troubleshooting) section
-2. Search [existing issues](https://github.com/yourusername/distributed-rate-limiter/issues)
-3. Create a [new issue](https://github.com/yourusername/distributed-rate-limiter/issues/new)
-4. Reach out on [Discussions](https://github.com/yourusername/distributed-rate-limiter/discussions)
+2. Search [existing issues](https://github.com/navuluri/distributed-rate-limiter/issues)
+3. Create a [new issue](https://github.com/navuluri/distributed-rate-limiter/issues/new)
+4. Reach out on [Discussions](https://github.com/navuluri/distributed-rate-limiter/discussions)
 
 ---
 
@@ -1185,7 +1185,7 @@ If you encounter any issues or have questions:
 
 If you find this project useful, please consider giving it a star!
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/distributed-rate-limiter&type=Date)](https://star-history.com/#yourusername/distributed-rate-limiter&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=navuluri/distributed-rate-limiter&type=Date)](https://star-history.com/#navuluri/distributed-rate-limiter&Date)
 
 ---
 
