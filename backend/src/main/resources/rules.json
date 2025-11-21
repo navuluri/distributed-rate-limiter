@@ -1,0 +1,34 @@
+[
+  {
+    "name": "user-per-minute-limit",
+    "description": "Limit the number of requests a user can make per minute",
+    "limit": 15,
+    "windowSizeInSeconds": 60,
+    "measure": "minute",
+    "algorithm": "fixedWindow"
+  },
+  {
+    "name": "user-per-hour-limit",
+    "description": "Limit the number of requests a user can make per hour",
+    "limit": 300,
+    "measure": "hour",
+    "windowSizeInSeconds": 3600,
+    "algorithm": "fixedWindow"
+  },
+  {
+    "name": "user-per-day-limit",
+    "description": "Limit the number of requests a user can make per day",
+    "limit": 7200,
+    "measure": "day",
+    "windowSizeInSeconds": 86400,
+    "algorithm": "fixedWindow"
+  },
+  {
+    "name": "user-per-minute-limit-sliding",
+    "description": "Limit the number of requests a user can make per minute in a sliding window",
+    "limit": 5,
+    "windowSizeInSeconds": 60,
+    "measure": "minute",
+    "algorithm": "slidingWindow"
+  }
+]
